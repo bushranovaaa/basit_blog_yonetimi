@@ -1,0 +1,1 @@
+# basit_blog_yonetimi
